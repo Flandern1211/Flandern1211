@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- 波浪标题横幅 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=Flandern&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=向前走，别回头&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=Flandern&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=探索无限可能&descAlignY=55" />
   
   
   <!-- 打字机效果 -->
