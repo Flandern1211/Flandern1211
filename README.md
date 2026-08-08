@@ -44,7 +44,7 @@
 <br><br>
 🔹 并发、调度、内存底层理解
 <br><br>
-🔹 MySQL、Redis、消息队列(MQ)开发使用
+🔹 MySQL、Redis、消息队列(MQ)使用
 <br><br>
 🔹 Docker容器化部署
 
