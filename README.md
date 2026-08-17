@@ -56,11 +56,11 @@
 <br><br>
 🔹 CI/CD(GitHub Actions、Jenkins)
 <br><br>
-🔹 Git工作流(rebase/merge)
-<br><br>
 🔹 LLaMA‑Factory大模型工具链
 <br><br>
 🔹 项目调试、性能排查与问题定位
+<br><br>
+🔹 Git工作流(rebase/merge)
 
 </td>
 </tr>
