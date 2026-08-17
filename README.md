@@ -23,7 +23,7 @@
 <tr>
 <td width="33%" valign="top">
 
-### 🤖 AI Agent & RAG
+### 🤖 AI Agent
 🔹 向量数据库(Milvus)部署调优
 <br><br>
 🔹 构建企业级RAG检索增强应用
