@@ -35,7 +35,7 @@
 🔹 vLLM推理部署、LoRA微调、数据集构建与评估
 
 </td>
-<td width="35%" valign="top">
+<td width="33%" valign="top">
 
 ### 💻 后端开发
 🔹 Go语言后端服务开发
@@ -49,7 +49,7 @@
 🔹 Docker容器化部署
 
 </td>
-<td width="35%" valign="top">
+<td width="33%" valign="top">
 
 ### 🛠️ 工程与工具链
 🔹 Docker / WSL / Linux环境
