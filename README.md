@@ -35,7 +35,7 @@
 🔹 vLLM推理部署、LoRA微调、数据集构建与评估
 
 </td>
-<td width="34%" valign="top">
+<td width="35%" valign="top">
 
 ### 💻 后端开发
 🔹 Go语言后端服务开发
