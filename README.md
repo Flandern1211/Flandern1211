@@ -17,32 +17,24 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
-<h2 align="center"> 关于我</h2>
+<h2 align="center"> 关于我 </h2>
 
 <table border="0" cellspacing="0" cellpadding="18" width="100%">
 <tr>
 <td width="33%" valign="top">
 
-### 🤖 AI Agent
-🔹 向量数据库(Milvus)部署调优
-<br><br>
-🔹 构建企业级RAG检索增强应用
-<br><br>
+### 🤖 AI
 🔹 Tool调用、ReAct范式、上下文工程
 <br><br>
-🔹 LLM应用层开发与Prompt工程
+🔹 LLM应用层开发与Harness工程
 <br><br>
-🔹 vLLM推理部署、LoRA微调、数据集构建与评估
+🔹 LLM推理部署、LoRA微调、数据集构建
 
 </td>
 <td width="33%" valign="top">
 
-### 💻 后端开发
-🔹 Go语言后端服务开发
-<br><br>
-🔹 Python FastAPI接口开发
-<br><br>
-🔹 并发、调度、内存底层理解
+### 💻 后端
+🔹 Go,Python语言后端服务开发
 <br><br>
 🔹 MySQL、Redis、消息队列(MQ)使用
 <br><br>
@@ -51,12 +43,8 @@
 </td>
 <td width="33%" valign="top">
 
-### 🛠️ 工程与工具链
-🔹 Docker / WSL / Linux环境
-<br><br>
+### 🛠️ 工程
 🔹 CI/CD(GitHub Actions、Jenkins)
-<br><br>
-🔹 LLaMA‑Factory大模型工具链
 <br><br>
 🔹 项目调试、性能排查与问题定位
 <br><br>
