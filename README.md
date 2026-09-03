@@ -18,41 +18,41 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
 <h2 align="center"> 关于我 </h2>
-
-<table border="0" cellspacing="0" cellpadding="18" width="100%">
-<tr>
-<td width="33%" valign="top">
-
-### 🤖 AI
-🔹 Tool、ReAct、Context工程
-<br><br>
-🔹 LLM应用层开发与Harness工程
-<br><br>
-🔹 LLM推理部署、LoRA微调、数据集构建
-
-</td>
-<td width="33%" valign="top">
-
-### 💻 后端
-🔹 Go,Python语言后端服务开发
-<br><br>
-🔹 MySQL、Redis、消息队列(MQ)
-<br><br>
-🔹 Docker容器化部署
-
-</td>
-<td width="33%" valign="top">
-
-### 🛠️ 工程
-🔹 CI/CD(GitHub Actions、Jenkins)
-<br><br>
-🔹 项目调试、性能排查与问题定位
-<br><br>
-🔹 Git工作流(rebase/merge)
-
-</td>
-</tr>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top" align="left">
+      <strong>🤖 AI</strong>
+      <br><br>
+      🔹 Tool、ReAct、Context工程
+      <br><br>
+      🔹 LLM应用层开发与Harness工程
+      <br><br>
+      🔹 LLM推理部署、LoRA微调、数据集构建
+    </td>
+    <td valign="top" align="left">
+      <strong>💻 后端</strong>
+      <br><br>
+      🔹 Go、Python语言后端服务开发
+      <br><br>
+      🔹 MySQL、Redis、消息队列(MQ)
+      <br><br>
+      🔹 Docker容器化部署
+    </td>
+    <td valign="top" align="left">
+      <strong>🛠️ 工程</strong>
+      <br><br>
+      🔹 CI/CD(GitHub Actions、Jenkins)
+      <br><br>
+      🔹 项目调试、性能排查与问题定位
+      <br><br>
+      🔹 Git工作流(rebase/merge)
+    </td>
+  </tr>
 </table>
+
+
+
+
 
 <h2 align="center">🛠️ 技能与工具</h2>
 
