@@ -24,7 +24,7 @@
 <td width="33%" valign="top">
 
 ### 🤖 AI
-🔹 Tool调用、ReAct范式、上下文工程
+🔹 Tool、ReAct、Context工程
 <br><br>
 🔹 LLM应用层开发与Harness工程
 <br><br>
@@ -36,7 +36,7 @@
 ### 💻 后端
 🔹 Go,Python语言后端服务开发
 <br><br>
-🔹 MySQL、Redis、消息队列(MQ)使用
+🔹 MySQL、Redis、消息队列(MQ)
 <br><br>
 🔹 Docker容器化部署
 
