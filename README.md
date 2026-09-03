@@ -21,17 +21,17 @@
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td valign="top" align="left">
-      <strong>🤖 AI</strong>
+      <div align="center"><strong>AI</strong></div>
+      <br>
+      🔹Tool、ReAct、Context工程
       <br><br>
-      🔹 Tool、ReAct、Context工程
+      🔹LLM应用层开发与Harness工程
       <br><br>
-      🔹 LLM应用层开发与Harness工程
-      <br><br>
-      🔹 LLM推理部署、LoRA微调、数据集构建
+      🔹推理部署、LoRA微调、数据集构建
     </td>
     <td valign="top" align="left">
-      <strong>💻 后端</strong>
-      <br><br>
+      <div align="center"><strong>后端</strong></div>
+      <br>
       🔹 Go、Python语言后端服务开发
       <br><br>
       🔹 MySQL、Redis、消息队列(MQ)
@@ -39,8 +39,8 @@
       🔹 Docker容器化部署
     </td>
     <td valign="top" align="left">
-      <strong>🛠️ 工程</strong>
-      <br><br>
+      <div align="center"><strong>工程</strong></div>
+      <br>
       🔹 CI/CD(GitHub Actions、Jenkins)
       <br><br>
       🔹 项目调试、性能排查与问题定位
@@ -54,7 +54,8 @@
 
 
 
-<h2 align="center">🛠️ 技能与工具</h2>
+
+<h2 align="center"> 技能与工具</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=go,python,cpp,docker,linux,git,vscode,github,mysql,mongodb&perline=7" />
@@ -65,7 +66,7 @@
 </div>
 
 
-<h2 align="center">📈 GitHub 活动</h2>
+<h2 align="center"> GitHub 活动</h2>
 
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flandern1211&theme=radical" width="100%" />
