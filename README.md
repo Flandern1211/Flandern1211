@@ -23,7 +23,7 @@
     <td valign="top" align="left">
       <div align="center"><strong>AI</strong></div>
       <br>
-      🔹Tool、ReAct、Context工程
+      🔹Tool、ReAct、Context
       <br><br>
       🔹LLM应用层开发与Harness工程
       <br><br>
