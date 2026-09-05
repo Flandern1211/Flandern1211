@@ -5,7 +5,7 @@
   
   
   <!-- 打字机效果 -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=AI应用开发+%7C+Go后端工程师;Agent+RAG架构实践;大模型微调与工程落地;保持好奇心，打磨高质量项目)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=AI应用开发+%7C+后端工程师;Agent+RAG架构实践;大模型微调与工程落地;保持好奇心，打磨高质量项目)](https://git.io/typing-svg)
 
   <p align="center">
     <a href="https://github.com/Flandern1211"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
