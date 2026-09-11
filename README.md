@@ -1,7 +1,9 @@
 <div align="center">
   
-  <!-- 波浪标题横幅 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=Flandern&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=探索无限可能&descAlignY=55" />
+<!-- 波浪标题横幅 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=Explore+Infinite+Possibilities&fontSize=64&fontAlignY=30&animation=fadeIn&fontColor=white&desc=探索无限可能&descAlignY=55&descSize=28" />
+
+
   
   
   <!-- 打字机效果 -->
