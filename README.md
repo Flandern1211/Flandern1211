@@ -79,7 +79,7 @@
 <h3 align="center">感谢访问我的 GitHub 主页!</h3>
 
 <p align="center">
-  <i>让我们一起探索AI与代码的无限可能!✨</i> 
+  <i>让我们一起探索AI与代码的无限可能!</i> 
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
