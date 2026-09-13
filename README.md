@@ -76,7 +76,7 @@
 </div>
 
 
-<h3 align="center">🙏 感谢访问我的 GitHub 主页!</h3>
+<h3 align="center">感谢访问我的 GitHub 主页!</h3>
 
 <p align="center">
   <i>让我们一起探索AI与代码的无限可能!✨</i> 
