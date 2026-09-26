@@ -44,7 +44,7 @@
     </td>
   </tr>
 </table>
-<h2 align="center"> 技能and工具</h2>
+<h2 align="center"> 技能 and 工具</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=go,python,typescript,docker,kubernetes,linux,git,vscode,github,mysql,mongodb&perline=7" />
 </div>
