@@ -22,7 +22,7 @@
       <br><br>
       🔹LLM应用层开发与Harness工程
       <br><br>
-      🔹推理部署、LoRA微调、数据集构建
+      🔹推理部署、LoRA微调、Dataset构建
     </td>
     <td valign="top" align="left">
       <div align="center"><strong>后端</strong></div>
