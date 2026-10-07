@@ -20,7 +20,7 @@
       <br>
       🔹Tool、ReAct、Context
       <br><br>
-      🔹LLM应用层开发与Harness工程
+      🔹LLM应用层开发、Harness工程
       <br><br>
       🔹推理部署、LoRA微调、Dataset构建
     </td>
