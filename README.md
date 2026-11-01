@@ -29,7 +29,7 @@
       <br>
       🔹 Go、Python语言后端服务开发
       <br><br>
-      🔹 MySQL、Redis、消息队列(MQ)
+      🔹 MySQL、Redis、消息队列
       <br><br>
       🔹 Docker容器化部署
     </td>
