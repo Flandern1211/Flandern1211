@@ -8,14 +8,8 @@
   
 </div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/v2/about-dark.svg">
-  <img src="./assets/v2/about-light.svg" alt="About Me" width="100%">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/v2/heading-skills-dark.svg">
-  <img src="./assets/v2/heading-skills-light.svg" alt="Tech Stack" width="100%">
-</picture>
+<img src="./assets/v3/about.svg" alt="About Me" width="100%">
+<img src="./assets/v3/heading-skills.svg" alt="Tech Stack" width="100%">
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -32,10 +26,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/v2/heading-contrib-dark.svg">
-  <img src="./assets/v2/heading-contrib-light.svg" alt="Contributions" width="100%">
-</picture>
+<img src="./assets/v3/heading-contrib.svg" alt="Contributions" width="100%">
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flandern1211/Flandern1211/output/github-snake-dark.svg" />
@@ -43,7 +34,4 @@
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/Flandern1211/Flandern1211/output/github-snake.svg" width="100%" />
 </picture>
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/v2/thanks-dark.svg">
-  <img src="./assets/v2/thanks-light.svg" alt="Thanks for visiting my GitHub profile!" width="100%">
-</picture>
+<img src="./assets/v3/thanks.svg" alt="Thanks for visiting my GitHub profile!" width="100%">
