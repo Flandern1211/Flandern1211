@@ -3,18 +3,18 @@
   <!-- 打字机效果 -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=AI应用开发+%7C+后端工程师;Agent+RAG架构实践;大模型微调与工程落地;保持好奇心，打磨高质量项目)](https://git.io/typing-svg)
   <p align="center">  
-    <a href="mailto:31@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="mailto:31@gmail.com"><img src="https://img.shields.io/badge/31%40gmail.com-64748b?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
   
 </div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/about-en-dark.svg">
-  <img src="./assets/about-en-light.svg" alt="About Me" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/v2/about-dark.svg">
+  <img src="./assets/v2/about-light.svg" alt="About Me" width="100%">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/heading-tech-dark.svg">
-  <img src="./assets/heading-tech-light.svg" alt="Tech Stack" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/v2/heading-skills-dark.svg">
+  <img src="./assets/v2/heading-skills-light.svg" alt="Tech Stack" width="100%">
 </picture>
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
@@ -33,8 +33,8 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
 </div>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/heading-contrib-en-dark.svg">
-  <img src="./assets/heading-contrib-en-light.svg" alt="Contributions" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/v2/heading-contrib-dark.svg">
+  <img src="./assets/v2/heading-contrib-light.svg" alt="Contributions" width="100%">
 </picture>
 <div align="center">
 <picture>
@@ -44,6 +44,6 @@
 </picture>
 </div>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/thanks-en-dark.svg">
-  <img src="./assets/thanks-en-light.svg" alt="Thanks for visiting my GitHub profile!" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/v2/thanks-dark.svg">
+  <img src="./assets/v2/thanks-light.svg" alt="Thanks for visiting my GitHub profile!" width="100%">
 </picture>
