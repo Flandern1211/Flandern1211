@@ -1,7 +1,7 @@
 <div align="center">
   
-  <!-- 打字机效果 -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=AI应用开发+%7C+后端工程师;Agent+RAG架构实践;大模型微调与工程落地;保持好奇心，打磨高质量项目)](https://git.io/typing-svg)
+  <!-- Typing effect -->
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=AI+Application+Developer+%7C+Backend+Engineer;Agent+%26+RAG+Architecture+in+Practice;LLM+Fine-tuning+%26+Production+Deployment;Stay+curious%2C+ship+high-quality+projects)](https://git.io/typing-svg)
   <p align="center">  
     <a href="mailto:31@gmail.com"><img src="https://img.shields.io/badge/31%40gmail.com-64748b?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
@@ -40,7 +40,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flandern1211/Flandern1211/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Flandern1211/Flandern1211/output/github-snake.svg" />
-  <img alt="贪吃蛇贡献图" src="https://raw.githubusercontent.com/Flandern1211/Flandern1211/output/github-snake.svg" width="100%" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Flandern1211/Flandern1211/output/github-snake.svg" width="100%" />
 </picture>
 </div>
 <picture>

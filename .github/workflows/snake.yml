@@ -21,8 +21,8 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Flandern1211
-          # SNK_TOKEN 是一个带 repo 权限的 classic PAT，用来把私有贡献也算进去；
-          # 没配这个 secret 时退回 GITHUB_TOKEN，只能拿到公开贡献。
+          # SNK_TOKEN is a classic PAT with repo scope so private contributions are included;
+          # when the secret is not set, fall back to GITHUB_TOKEN (public contributions only).
           github_token: ${{ secrets.SNK_TOKEN || secrets.GITHUB_TOKEN }}
           outputs: |
             dist/github-snake.svg
