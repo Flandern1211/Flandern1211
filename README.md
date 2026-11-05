@@ -51,17 +51,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
 </div>
-<h2 align="center"> GitHub 活动</h2>
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flandern1211&theme=radical" width="100%" />
-</div>
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flandern1211/Flandern1211/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Flandern1211/Flandern1211/output/github-snake.svg" />
-  <img alt="贪吃蛇贡献图" src="https://raw.githubusercontent.com/Flandern1211/Flandern1211/output/github-snake.svg" width="100%" />
-</picture>
-</div>
 <h3 align="center">感谢访问我的 GitHub 主页!</h3>
 <p align="center">
   <i>让我们一起探索AI与代码的无限可能!</i> 
