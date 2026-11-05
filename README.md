@@ -12,38 +12,10 @@
   
 </div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
-<h2 align="center"> 关于我 </h2>
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td valign="top" align="left">
-      <div align="center"><strong>AI</strong></div>
-      <br>
-      🔹Tool、ReAct、Context
-      <br><br>
-      🔹LLM应用层开发、Harness工程
-      <br><br>
-      🔹推理部署、LoRA微调、Dataset构建
-    </td>
-    <td valign="top" align="left">
-      <div align="center"><strong>后端</strong></div>
-      <br>
-      🔹 Go、Python语言后端服务开发
-      <br><br>
-      🔹 MySQL、Redis、消息队列
-      <br><br>
-      🔹 Docker容器化部署
-    </td>
-    <td valign="top" align="left">
-      <div align="center"><strong>工程</strong></div>
-      <br>
-      🔹 CI/CD(GitHub Actions、Jenkins)
-      <br><br>
-      🔹 项目调试、性能排查与问题定位
-      <br><br>
-      🔹 Git工作流(rebase/merge)
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/about-dark.svg">
+  <img src="./assets/about-light.svg" alt="关于我：AI、后端、工程" width="100%">
+</picture>
 <h2 align="center"> 技能 and 工具</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=go,python,typescript,docker,kubernetes,linux,git,vscode,github,mysql,mongodb&perline=7" />
