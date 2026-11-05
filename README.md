@@ -13,12 +13,22 @@
   <img src="./assets/about-light.svg?v=2" alt="关于我：AI、后端、工程" width="100%">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/heading-skills-dark.svg">
-  <img src="./assets/heading-skills-light.svg" alt="技能 and 工具" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/heading-skills-dark.svg?v=2">
+  <img src="./assets/heading-skills-light.svg?v=2" alt="技术栈" width="100%">
 </picture>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,typescript,docker,kubernetes,linux,git,vscode,github,mysql,mongodb&perline=7" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
 </div>
