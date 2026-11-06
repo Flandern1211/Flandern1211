@@ -4,6 +4,8 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=AI+Application+Developer+%7C+Backend+Engineer;Agent+%26+RAG+Architecture+in+Practice;LLM+Fine-tuning+%26+Production+Deployment;Stay+curious%2C+ship+high-quality+projects)](https://git.io/typing-svg)
   <p align="center">  
     <a href="mailto:31@gmail.com"><img src="https://img.shields.io/badge/31%40gmail.com-64748b?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="mailto:3180066912@qq.com"><img src="https://img.shields.io/badge/3180066912%40qq.com-64748b?style=flat-square" alt="QQ Email"/></a>
+    <a href="https://blog.csdn.net/2403_88422250?type=blog"><img src="https://img.shields.io/badge/CSDN-FC5531?style=flat-square&logo=csdn&logoColor=white" alt="CSDN"/></a>
   </p>
   
 </div>
