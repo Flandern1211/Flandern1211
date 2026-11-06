@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="160" viewBox="0 0 880 160" role="img" aria-label="About Me">
-<text x="440" y="22" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="16" letter-spacing="2" fill="#2C9CDF">ABOUT ME</text>
+<text x="440" y="22" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="16" letter-spacing="2" fill="#0369A1">ABOUT ME</text>
 <text x="180" y="64" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#2C9CDF">AI</text>
 <text x="81.4" y="92" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#2C9CDF">• Tool use, ReAct, context</text>
 <text x="81.4" y="118" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#2C9CDF">• LLM apps &amp; harness engineering</text>
