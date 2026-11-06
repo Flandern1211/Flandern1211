@@ -8,8 +8,8 @@
   </p>
   
 </div>
-<img src="./assets/v10/about.svg" alt="About Me" width="100%">
-<img src="./assets/v10/heading-skills.svg" alt="Tech Stack" width="100%">
+<img src="./assets/v11/about.svg" alt="About Me" width="100%">
+<img src="./assets/v11/heading-skills.svg" alt="Tech Stack" width="100%">
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
-<img src="./assets/v10/heading-contrib.svg" alt="Contributions" width="100%">
+<img src="./assets/v11/heading-contrib.svg" alt="Contributions" width="100%">
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flandern1211/Flandern1211/output/github-snake-dark.svg" />
@@ -31,4 +31,4 @@
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/Flandern1211/Flandern1211/output/github-snake.svg" width="100%" />
 </picture>
 </div>
-<img src="./assets/v10/thanks.svg" alt="Thanks for visiting my GitHub profile!" width="100%">
+<img src="./assets/v11/thanks.svg" alt="Thanks for visiting my GitHub profile!" width="100%">
